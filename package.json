@@ -1,0 +1,16 @@
+{
+  "name": "bestride",
+  "version": "0.0.0",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^11.0.2"
+  },
+  "dependencies": {
+    "@electron/remote": "^1.0.2",
+    "electron-reload": "^1.5.0",
+    "preferences": "^2.0.2"
+  }
+}
